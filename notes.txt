@@ -1,0 +1,37 @@
+installion details
+==================
+1. download the pip file ==> https://bootstrap.pypa.io/get-pip.py
+2. install pip ==> py get-pip.py
+3. install virtual environment ==> pip install virtualenv
+4. install jupyter lab ==> pip install jupyterlab
+
+
+Working proceedure:
+===================
+
+1. dedicate a folder for you coding ==> d:/test
+2. navigate to the test folder
+3. Perform all of these command from terminal only, you can open command prompt or git bash
+4. create virtual evn:
+=====================
+py -m venv <path to the environment + env name>
+
+eg: 
+py -m venv training-env
+
+
+5. activate the virtual env:
+============================
+source training-env/Scripts/activate
+source training-env/Scripts/activate.bat
+./training-env/Scripts/activate
+./training-env/Scripts/activate.bat
+
+
+6. open jupyter lab:
+====================
+jupyter-lab
+
+7. Deactivate virtual evn
+==========================
+deactivate

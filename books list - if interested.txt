@@ -1,0 +1,11 @@
+books
+=====
+1. clean code by robert c martin
+2. Code Complete, by Steve Mcconnell (Author)
+3. Design Patterns
+	a)  Erich Gamma
+	b) gang of four
+4. Art of Computer Programming - Donald Knuth 1-4A
+5. Python cookbook and/or learn python the hardway
+6. Head First Object-Orient
+7. Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler))ed Analysis and Design
